@@ -1,1 +1,1 @@
-
+You have internet connection!
